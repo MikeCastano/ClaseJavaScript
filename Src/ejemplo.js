@@ -3,6 +3,7 @@ let peliculas = [
   { numero: 2, genero: "humor", titulo: "risas" },
   { numero: 3, genero: "Suspenso", titulo: "No corras" },
   { numero: 4, genero: "Drama", titulo: "Amor mio" },
+  { numero: 4, genero: "miedo", titulo: "bye" },
 
 ];
 console.log("otro cambio")
