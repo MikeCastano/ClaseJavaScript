@@ -1,0 +1,13 @@
+.titulo {
+    color: red;
+    background-color: aqua;
+    text-align: center;
+}
+
+#numero{
+    color: rgb(4, 0, 255);
+    font-size: xx-large;
+    background-color: blue;
+    width: 30%;
+    text-align: center;
+}

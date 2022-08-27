@@ -1,0 +1,9 @@
+#wrapMovies {
+  display: flex;
+}
+
+.movie {
+  border: solid 1px black;
+  text-align: center;
+  width: 200px;
+}
