@@ -49,4 +49,4 @@ sacarAlerta = function (a) {
     alert(a)
 }
 
-// sacarAlerta(4);
+sacarAlerta(4);
