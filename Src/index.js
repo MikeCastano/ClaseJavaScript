@@ -13,6 +13,7 @@ let array = [
   { nombre: "Miguel", edad: 28 },
   [],
 ];
+
 let estudiante = {
   nombre: "Miguel",
   edad: 28,

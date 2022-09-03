@@ -13,4 +13,4 @@ let templateMovies = peliculas.forEach((item) => {
   wrapMovies.innerHTML += `<div class="movie"><p>${item.numero}</p><p>${item.genero}</p><p>${item.titulo}</p></div>`;
 });
 
-console.log("la suma es", sumaDosNumeros(5, 4));
+
